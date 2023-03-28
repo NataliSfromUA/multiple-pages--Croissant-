@@ -1,3 +1,14 @@
 body {
+  background-color: #f8e8a6;
   text-align: center;
+}
+img {
+  border-radius: 10px;
+}
+
+a {
+  margin: 20px;
+}
+a:visited {
+  color: green;
 }
